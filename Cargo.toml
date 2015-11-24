@@ -1,0 +1,8 @@
+[package]
+name = "venotus-backend"
+version = "0.0.2"
+authors = ["Til Blechschmidt <til@blechschmidt.de>"]
+
+[dependencies]
+time = "0.1.34"
+rustc-serialize = "0.3.16"
